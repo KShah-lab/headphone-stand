@@ -3,3 +3,4 @@
 
 #### The first version of the headphones was very ugly and had little portabilty and innovation compared to the already existing models on 3d printing website. as a result i decided to create something new that was really cool and solved all the problems with verision 1. the solution was to create something that looked cool and fuctioned well and was portable. thus the idea for a magnetic under the table headphone stand was born. 
 
+![Screenshot](Screenshot%202026-06-01%20at%2020.50.38.png)

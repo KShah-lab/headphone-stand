@@ -5,4 +5,6 @@
 #### The third design was more simple and fitted exactly what I needed but the issue was I had not addressed the issue regarding 3D Printing and wasting filament! I attempted to print it multiple times but kept on running into issues with its thickness which lead me to create a 4th model to finally address all the issues and requirements as best I could!
 #### As a result, I decided to create the 4th and final design which aimed to solve the problems of functionality, design and ability to print as well as not wasting filament. The final look was a clean and simple work which fitted to exactly what I needed. It could one printed in under an hour and used just around 75g of filament making it easily printable and portable. Compared to the first 2 models, it had no moving or extra parts, no complex shapes which made printing difficult and no extra useless features as I had on the second model. The print time was around 50 minutes with no mistakes,.
 
-# Images can be viewed in their relevant section in the files above
+![alt text](IMG_1435.jpeg)
+![alt text](IMG_1436.jpeg)
+![alt text](IMG_1437.jpeg)

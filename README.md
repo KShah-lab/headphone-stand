@@ -9,3 +9,7 @@
 ![Headphone Stand Design 2](Images/IMG_1436.jpeg)
 
 ![Headphone Stand Final Design](Images/IMG_1437.jpeg)
+
+BOM							
+Print Time	Filament in g used		Filament used		Cost per Gram		Total print cost
+1.3 Hours	79g		Blue Bambu PLA		~$ 0.01772		$1.40

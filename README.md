@@ -10,6 +10,5 @@
 
 ![Headphone Stand Final Design](Images/IMG_1437.jpeg)
 
-BOM							
-Print Time	Filament in g used		Filament used		Cost per Gram		Total print cost
-1.3 Hours	79g		Blue Bambu PLA		~$ 0.01772		$1.40
+
+#### I printed in 1.3 hours, i used Blue Bambu lab PLA, cost per gram is ~$ 0.01772 and total cost was $1.40
